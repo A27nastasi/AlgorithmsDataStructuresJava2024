@@ -1,10 +1,9 @@
 package LinkedList;
 
 public class ListNode {
-    int val;
+    final int val;   
     ListNode next;
 
-    
     ListNode() {
         this.val = 0;
         this.next = null;
@@ -20,4 +19,3 @@ public class ListNode {
         this.next = next;
     }
 }
-
