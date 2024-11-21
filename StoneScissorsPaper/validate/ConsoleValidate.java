@@ -1,5 +1,7 @@
-package StoneScissorsPaper;
+package StoneScissorsPaper.validate;
 
+import StoneScissorsPaper.Choice;
+import StoneScissorsPaper.player.Player;
 
 public class ConsoleValidate implements Validate {
 
@@ -17,4 +19,3 @@ public class ConsoleValidate implements Validate {
         }
     }
 }
-

@@ -9,4 +9,3 @@ public enum Choice {
                (this == PAPER && other == ROCK);
     }
 }
-

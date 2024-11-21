@@ -1,6 +1,9 @@
-package StoneScissorsPaper;
+package StoneScissorsPaper.game;
 
-
+import StoneScissorsPaper.Choice;
+import StoneScissorsPaper.player.RegularPlayer;
+import StoneScissorsPaper.player.Player;
+import StoneScissorsPaper.validate.Validate;
 
 public class ConsoleGame implements Game {
     private RegularPlayer player1;

@@ -1,6 +1,6 @@
-package StoneScissorsPaper;
+package StoneScissorsPaper.player;
 
-
+import StoneScissorsPaper.Choice;
 
 import java.util.Random;
 import java.util.Scanner;
